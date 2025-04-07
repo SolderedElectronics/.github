@@ -1,48 +1,29 @@
 ![Soldered full logo color](https://github.com/SolderedElectronics/.github/assets/12273484/b51a5933-86d7-4f28-a3a4-abd955d321b2)
 
-# Welcome to Soldered Electronics
-
 **Designing hardware for makers, by makers.**  
-[Visit our homepage →](https://soldered.com)
+[🔗 Visit soldered.com](https://soldered.com)
 
 ---
 
-## Who We Are
+## About Soldered
 
-**Soldered Electronics** specializes in designing and manufacturing electronic products tailored for makers of all skill levels — from hobbyists to professionals. Our mission is to empower innovation through accessible, reliable, and open-source hardware.
+Soldered Electronics is a European-based company designing and manufacturing **open-source hardware** for makers, hobbyists, educators, and professionals.
 
----
-
-## What We Do
-
-Our product range includes:
-
-- **Electronic boards**
-- **Sensors and actuators**
-- Tools for **microelectronics**, **mechatronics**, **robotics**, **programming**, and **IoT**
-
-All of our products are:
-- **Designed in-house**
-- Based on **open-source** hardware and software
-- **Certified and manufactured within the European Union**
-
-We proudly maintain a catalog of **over 240 unique electronic products**.
+We specialize in:
+- Electronic boards, sensors, and actuators
+- Projects in microelectronics, robotics, mechatronics, and IoT
+- Supporting users with [📚 tutorials, code, and schematics](https://soldered.com/documentation/)
 
 ---
 
-## More Than Just Hardware
+## At a Glance
 
-We provide a complete ecosystem to support your projects:
-
-- **[In-depth tutorials and documentaton](https://soldered.com/documentation/)**
-- **Schematics and source code**
-- **Practical project examples**
-- 
----
-
-## We’ve Got Your Back
-
-Our team offers **[24/7 customer and technical support](https://soldered.com/contact/)** — no matter where or how you purchased our products. We take pride in standing behind every item we ship.
+- 🇭🇷 Based in Osijek, Croatia  
+- 🛠️ 200+ in-house designed products  
+- 🚚 225,000+ units delivered to 80+ countries  
+- 🌍 Open-source, high-quality, and community-driven  
+- ⭐ 4.8 average review score on TrustPilot
+- 💬 [24/7 technical support](https://soldered.com/contact/)
 
 ---
 
@@ -51,3 +32,4 @@ Our team offers **[24/7 customer and technical support](https://soldered.com/con
 Thank you for your support from your fellow makers at Soldered Electronics.
 
 Happy Making!
+
