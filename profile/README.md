@@ -1,5 +1,53 @@
 ![Soldered full logo color](https://github.com/SolderedElectronics/.github/assets/12273484/b51a5933-86d7-4f28-a3a4-abd955d321b2)
 
-Soldered Electronics specializes in designing and manufacturing electronic products tailored for enthusiasts, ranging from hobbyists to professionals. Our portfolio includes electronic boards, sensors, and actuators that are widely utilized in fields such as microelectronics, mechatronics, robotics, programming, and IoT. Every product we offer is designed in-house and built upon open-source hardware and software platforms. Proudly certified and manufactured within the European Union, our catalog boasts over 240 electronic products. To complement these, we provide numerous comprehensive tutorials and manuals, complete with product descriptions, schematics, programming codes, and project examples. We are committed to offering round-the-clock customer and technical support for all our products, irrespective of the sales channel. The success of Soldered electronics and services is a testament to our maker community's unwavering trust and support, for which we are deeply grateful and feel a profound sense of responsibility. We invite you to join our community and create using Soldered products.
+# Welcome to Soldered Electronics
 
-Read more about Soldered Electronics [here](https://soldered.com/about-us/). 
+**Designing hardware for makers, by makers.**  
+[Visit our homepage →](https://soldered.com)
+
+---
+
+## Who We Are
+
+**Soldered Electronics** specializes in designing and manufacturing electronic products tailored for makers of all skill levels — from hobbyists to professionals. Our mission is to empower innovation through accessible, reliable, and open-source hardware.
+
+---
+
+## What We Do
+
+Our product range includes:
+
+- **Electronic boards**
+- **Sensors and actuators**
+- Tools for **microelectronics**, **mechatronics**, **robotics**, **programming**, and **IoT**
+
+All of our products are:
+- **Designed in-house**
+- Based on **open-source** hardware and software
+- **Certified and manufactured within the European Union**
+
+We proudly maintain a catalog of **over 240 unique electronic products**.
+
+---
+
+## More Than Just Hardware
+
+We provide a complete ecosystem to support your projects:
+
+- **[In-depth tutorials and documentaton](https://soldered.com/documentation/)**
+- **Schematics and source code**
+- **Practical project examples**
+- 
+---
+
+## We’ve Got Your Back
+
+Our team offers **[24/7 customer and technical support](https://soldered.com/contact/)** — no matter where or how you purchased our products. We take pride in standing behind every item we ship.
+
+---
+
+## Have fun!
+
+Thank you for your support from your fellow makers at Soldered Electronics.
+
+Happy Making!
